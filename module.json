@@ -1,0 +1,20 @@
+{
+    "name": "hello-world",
+    "title": "Hello World! primo modulo",
+    "description": "Un semplice modulo che stampa Hello World nel log",
+    "version": "1.12.2",
+    "author": "Luca",
+    "authors": [{
+        "name": "Aedif"
+    }],
+    "minimumCoreVersion": "0.7.7",
+    "compatibleCoreVersion": "0.8.9",
+    "scripts": [
+		"scripts/hello-world.js"
+	],
+    "languages": [{
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+    }]
+}
