@@ -2,10 +2,10 @@
     "name": "hello-world",
     "title": "Hello World! primo modulo",
     "description": "Un semplice modulo che stampa Hello World nel log",
-    "version": "1.12.2",
+    "version": "1.0.1",
     "author": "Luca",
     "authors": [{
-        "name": "Aedif"
+        "name": "Luca"
     }],
     "minimumCoreVersion": "0.7.7",
     "compatibleCoreVersion": "0.8.9",
